@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestClass" duration-ms="93682" started-at="2020-09-14T10:08:42Z" finished-at="2020-09-14T10:10:16Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="93682" started-at="2020-09-14T10:08:42Z" finished-at="2020-09-14T10:10:16Z">
+      <class name="TestClass">
+        <test-method status="PASS" signature="initialSetup()[pri:0, instance:TestClass@3dd3bcd]" name="initialSetup" is-config="true" duration-ms="12146" started-at="2020-09-14T10:08:30Z" finished-at="2020-09-14T10:08:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetup -->
+        <test-method status="PASS" signature="verify_LoginPage_Title()[pri:0, instance:TestClass@3dd3bcd]" name="verify_LoginPage_Title" duration-ms="245" started-at="2020-09-14T10:08:42Z" finished-at="2020-09-14T10:08:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_LoginPage_Title -->
+        <test-method status="PASS" signature="verify_Application_Login()[pri:1, instance:TestClass@3dd3bcd]" name="verify_Application_Login" duration-ms="18077" started-at="2020-09-14T10:08:43Z" finished-at="2020-09-14T10:09:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Application_Login -->
+        <test-method status="PASS" signature="verify_NavigationMenu_Links()[pri:2, instance:TestClass@3dd3bcd]" name="verify_NavigationMenu_Links" duration-ms="1564" started-at="2020-09-14T10:09:01Z" finished-at="2020-09-14T10:09:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_NavigationMenu_Links -->
+        <test-method status="PASS" signature="addContacts()[pri:3, instance:TestClass@3dd3bcd]" name="addContacts" duration-ms="73764" started-at="2020-09-14T10:09:02Z" finished-at="2020-09-14T10:10:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addContacts -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestClass@3dd3bcd]" name="tearDown" is-config="true" duration-ms="224" started-at="2020-09-14T10:10:16Z" finished-at="2020-09-14T10:10:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestClass -->
+    </test> <!-- Command line test -->
+  </suite> <!-- TestClass -->
+</testng-results>
